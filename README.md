@@ -1,2 +1,2 @@
-# credit-checks
-This repository will contain code the Zk-Snark for on-chain credit checks
+# Confidential Credit Checks
+This repository will contains code the Zk-Snark for on-chain credit checks and builds on the price range proof.
